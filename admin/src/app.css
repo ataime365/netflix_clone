@@ -1,0 +1,10 @@
+
+.container{
+    display: flex;
+}
+
+/* Because this applies all over, so we put it in the root css file */
+.link{
+    text-decoration: none;
+    color: inherit;
+}
